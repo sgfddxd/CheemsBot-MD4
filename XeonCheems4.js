@@ -1095,7 +1095,7 @@ const reactionMessage = {
 const latensie = speed() - timestampe
                 const menulist = `┌─❖
 │ ↪𝗛𝗜↩
-└┬❖ 「 @${xeonName.split("@")[0]} 」
+└┬❖ 「 ${pushname} 」
 ┌┤✑  𝙄𝙈 𝙗𝙤𝙩 𝙬𝙖
 │└────────────┈ ⳹
 │
