@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = 'https://telegra.ph/doge-bot-09-12' //gif and video menu
+global.vidmenu = 'https://i.imgur.com/i79aGxJ.jpeg' //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['989935689936'] //ur owner number
+global.vcardowner = ['989935689926'] //ur owner number
 global.ownername = "𝐄𝐙𝐈𝐎" //ur owner name
 global.ytname = "YT: 𝐗𝐗" //ur yt chanel name
 global.socialm = "GitHub: 𝐗𝐗" //ur github or insta name
